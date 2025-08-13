@@ -12,5 +12,8 @@ void show_mem(unsigned char *mem) {
 }
 
 int main() {
+    unsigned char mem[MEM_SIZE] = {0};
+    unsigned char *pointer = mem;
+
     return 0;
 }
