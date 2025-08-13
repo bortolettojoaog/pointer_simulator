@@ -127,7 +127,7 @@ Option:
 
 ```
 pointer_simulator/
-├── pointer_simulator.c    # Main source file
+├── main.c    # Main source file
 ├── README.md              # Project documentation
 └── assets/
     └── banner.png         # Project banner
