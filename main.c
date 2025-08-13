@@ -19,8 +19,8 @@ int main() {
     do {
         show_mem(mem);
         printf("\nPointer is located at %ld (value = %d)\n", pointer - mem, *pointer);
-        printf("1 - Go Next\n");
-        printf("2 - Go Back\n");
+        printf("1 - Move Forward\n");
+        printf("2 - Move Backward\n");
         printf("3 - Change Value\n");
         printf("4 - Exit\n");
         printf("Option: ");
